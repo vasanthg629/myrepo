@@ -1,1 +1,2 @@
 core changes
+myrepo2 changes
